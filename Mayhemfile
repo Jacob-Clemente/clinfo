@@ -1,0 +1,5 @@
+project: clinfo
+target: clinfo
+
+cmds:
+  - cmd: /clinfo -d @@
